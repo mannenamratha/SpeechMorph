@@ -1,0 +1,7 @@
+moviepy
+openai-whisper
+deep-translator
+gTTS
+jiwer
+pydub
+ffmpeg-python
